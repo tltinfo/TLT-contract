@@ -13,6 +13,25 @@ The Lost Throne is an MTG-inspired Play for Fun & Play to Earn trading card game
 [Gitbook](https://lost-throne.gitbook.io/the-lost-throne/)
 
 
+# TLT-contract on TronNetwork
+## TheLostThroneTron
+Main assest for gameplay, already verified
+Hero Card [TXVfa64JETKG5E9MNWLGYTh7YGCPrRNqs6](https://tronscan.io/#/contract/TXVfa64JETKG5E9MNWLGYTh7YGCPrRNqs6/code)
+
+## MysteryBoxTron
+The camp where hero come from, you can join us through,already verified 
+ * 1、 VRC20 token(after ow set)
+ * 2、 trx (after sell start)
+ * 3、 White Ticket (from IGO)
+Mystery Box [TRxvAtH5GkvYh5CA3i3STjH9FG9iN8Dsz9](https://tronscan.io/#/contract/TRxvAtH5GkvYh5CA3i3STjH9FG9iN8Dsz9/code)
+
+## Utils
+### Random
+Get a random num on chain, using for every, may updated by ow. ( Consider for safity, never verified.)
+
+Random [TJyagyrBUxRBr7frxwEnRoBuxGhv1krh4L](https://tronscan.io/#/contract/TJyagyrBUxRBr7frxwEnRoBuxGhv1krh4L/code)
+
+
 # TLT-contract on BinanceSmartChain
 ## CP
 Crystal Powder [0xe9C133D3D94263C7aC7B848168138D7cF2cEbA14](https://bscscan.com/address/0xe9C133D3D94263C7aC7B848168138D7cF2cEbA14)
